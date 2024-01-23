@@ -1,0 +1,18 @@
+#darujte-krypto{
+    border: 0px;
+    border-radius: 10px;
+    font-family: 'Istok Web','Roboto', sans-serif; /* Add this line */
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.donat-green{
+    color: #013260;
+    background-color: #28CC8A;
+}
+
+#darujte-krypto span {
+    font-size: 12px;
+    font-weight: 300;
+    display: block;
+}
